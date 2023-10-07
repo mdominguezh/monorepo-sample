@@ -1,1 +1,0 @@
-load("//tools/build_rules:sources.bzl", "sources")
