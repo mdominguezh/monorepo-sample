@@ -22,7 +22,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>no.monorepo.app1.App1</mainClass>
+                            <mainClass>no.monorepo.app2.App2</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
